@@ -5,4 +5,3 @@
 ## Professor ofimatica: Cati
 
 ## Professor sistemes: Guillem
-
