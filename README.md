@@ -1,4 +1,4 @@
-# PracticaAlbert
+# Es Liceu 2024
 
 ## Professor Muntatge: Tomeu
 
