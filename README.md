@@ -13,4 +13,4 @@
 
 ## Enllaç
 
-[Es Liceu]
+[Es Liceu](https://esliceu.cat/)
