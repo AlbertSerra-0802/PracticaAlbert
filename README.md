@@ -3,7 +3,7 @@
 
 # **Es Liceu 2024**
 
-:smile:
+# :smile:
 
 ## 1. Professor Muntatge: *Tomeu*
 
