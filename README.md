@@ -5,13 +5,13 @@
 
 :smile:
 
-## Professor Muntatge: *Tomeu*
+## 1. Professor Muntatge: *Tomeu*
 
-## Professor ofimatica: *Cati*
+## 2. Professor ofimatica: *Cati*
 
-## Professor sistemes: *Guillem*
+## 3. Professor sistemes: *Guillem*
 
-## Professor xarxes: *Pedro*
+## 4. Professor xarxes: *Pedro*
 
 ## **Enllaç**
 
